@@ -1,4 +1,4 @@
-package com.example.grafik.controller;
+package com.example.graph.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
