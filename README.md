@@ -14,3 +14,11 @@ Bar,Pie,Line
 ![image](https://user-images.githubusercontent.com/61595808/148649151-3de17380-bd7c-468d-a2a3-712b7c8c08a0.png)
 
 
+
+### barGraph.html
+
+chart: { type: 'line'},
+
+
+![image](https://user-images.githubusercontent.com/61595808/148649218-fb3db2b0-dd03-4e1b-8b67-bb452b4f627f.png)
+
